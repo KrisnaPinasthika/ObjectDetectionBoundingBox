@@ -28,4 +28,9 @@ Jalankan kode program secara berurutan dari file:
 -   Model masih overfitting karena sample data sangat sedikit.
 -   Eksekusi kode seperti biasa
 
+## 4. Mobilenet_Model_Creation.ipynb
+
+-   Membuat model dari pretrained model dengan mobilenet
+-   cara pakainya, setelah ipynb nomor 1 sudah dieksekusi maka bisa jalan (semoga :D) karena ada banyak error di bagian verifikasi
+
 ---
