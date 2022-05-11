@@ -1,0 +1,26 @@
+<annotation>
+	<folder>thumbsdown</folder>
+	<filename>thumbsdown.fb6b9ebb-cf9a-11ec-bf9b-e86a64477a78.jpg</filename>
+	<path>C:\Users\user\Documents\VisualStudioCode\ObjectDetectionBoundingBox\Tensorflow\workspace\images\collectedimages\thumbsdown\thumbsdown.fb6b9ebb-cf9a-11ec-bf9b-e86a64477a78.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thumbsdown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>221</xmin>
+			<ymin>189</ymin>
+			<xmax>362</xmax>
+			<ymax>392</ymax>
+		</bndbox>
+	</object>
+</annotation>

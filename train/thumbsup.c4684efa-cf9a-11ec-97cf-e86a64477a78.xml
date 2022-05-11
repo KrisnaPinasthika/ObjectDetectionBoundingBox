@@ -1,0 +1,26 @@
+<annotation>
+	<folder>thumbsup</folder>
+	<filename>thumbsup.c4684efa-cf9a-11ec-97cf-e86a64477a78.jpg</filename>
+	<path>C:\Users\user\Documents\VisualStudioCode\ObjectDetectionBoundingBox\Tensorflow\workspace\images\collectedimages\thumbsup\thumbsup.c4684efa-cf9a-11ec-97cf-e86a64477a78.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thumbsup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>349</xmin>
+			<ymin>246</ymin>
+			<xmax>494</xmax>
+			<ymax>469</ymax>
+		</bndbox>
+	</object>
+</annotation>
